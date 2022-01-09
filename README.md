@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I am a Computer Science undergraduate at the University of Leeds, currently in my second year.
+I am a Computer Science degree apprentice at the University of Leeds, currently in my second year.
+
+I am interested in:
+- C/C++
+- Go
+- Creating scalable software with Docker and K8s
+- AWS/Azure
 
 <!--
 **ekralc/ekralc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
