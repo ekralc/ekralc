@@ -2,7 +2,6 @@
 
 I am a Computer Science undergraduate at the University of Leeds, currently in my second year.
 
-[![wakatime](https://wakatime.com/badge/user/b9c777e9-b881-49ee-a41b-0b878487bf14.svg)](https://wakatime.com/@b9c777e9-b881-49ee-a41b-0b878487bf14)
 <!--
 **ekralc/ekralc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
