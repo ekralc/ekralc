@@ -6,7 +6,6 @@ I am interested in:
 - C/C++
 - Go
 - Creating scalable software with Docker and K8s
-- AWS/Azure
 
 <!--
 **ekralc/ekralc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
