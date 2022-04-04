@@ -3,9 +3,11 @@
 I am a Computer Science degree apprentice at the University of Leeds, currently in my second year.
 
 I am interested in:
+- Backend development
+- DevOps
+- Docker/K8s
 - C/C++
 - Go
-- Creating scalable software with Docker and K8s
 
 <!--
 **ekralc/ekralc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
