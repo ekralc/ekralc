@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I am a Computer Science degree apprentice at the University of Leeds, currently in my second year.
+I am a Computer Science degree apprentice at the University of Leeds, currently on placement before completing my third year.
 
 I am interested in:
-- Backend development
-- DevOps
-- Docker/K8s
+- Cloud architecture
+- Docker
+- Kubernetes
 - C/C++
 - Go
+- DevOps
 
 <!--
 **ekralc/ekralc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
